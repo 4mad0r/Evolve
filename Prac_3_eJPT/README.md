@@ -16,6 +16,8 @@ El laboratorio se compone de cuatro máquinas conectadas mediante diferentes red
 
 ## 🏗️ 1. Configuración del laboratorio  
 
+<img width="1184" height="536" alt="image" src="https://github.com/user-attachments/assets/5f01afab-834a-4522-bd07-f720f0edf81d" />
+
 Se prepara un entorno con:
 
 - **Kali Linux** (máquina atacante)  
